@@ -10,4 +10,4 @@ as all code for data loaders, training the model, etc.
 
 
 I wrote an entire article explaining the theory and implementation in this
-project that can be found at 
+project that can be found at https://towardsdatascience.com/building-a-music-recommendation-engine-with-probabilistic-matrix-factorization-in-pytorch-7d2934067d4a 
